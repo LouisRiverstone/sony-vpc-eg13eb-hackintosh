@@ -6,6 +6,7 @@
  - High Sierra Installation (You can download on others sites, and Forums)
  - This Files
  - Patience :)
+ - Minimum of Hackintosh Knowledge
  
  ## Before use this tutorial
 Create a installation using your High Sierra.raw using [Balena Etcher](https://www.balena.io/etcher/) (Because Etcher works Multiplataform :D).
