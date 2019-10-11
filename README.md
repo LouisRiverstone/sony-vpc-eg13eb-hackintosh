@@ -30,13 +30,13 @@ Use Vietnam with this configurations
 		 - Atheros Bluetooth 	
 	- Ethernet
 		- Atheros 
-			- ALXEthernet 	
+			- ALXEthernet	
 
 Ok, it's time to use Multibeast!
 
  - Install Clover on Legacy mode (To replace Chamilion)
 
+Use a Disk Software From Linux Mint to Replace Clover From Instalation with Post Installation Kexts
 
-Install Kexts (Audio, Voodoo) With Kext Utility
 
-Use a Disk Software From Linux Mint to Replace Clover From Instalation Without Kexts excepts for FakeSMC.
+Have Fun :)
