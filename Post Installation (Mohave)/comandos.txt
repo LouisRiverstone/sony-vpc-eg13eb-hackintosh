@@ -1,0 +1,3 @@
+xcrun simctl list
+xcrun simctl install iddevice pathtobundle
+xcrun simctl launch iddevice idbundle
