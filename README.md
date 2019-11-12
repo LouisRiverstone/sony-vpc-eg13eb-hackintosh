@@ -3,7 +3,7 @@
 
 ## Requiriments
 
- - High Sierra Installation (You can download on others sites, and Forums)
+ - High Sierra Installation, Or Mojave (You can download on others sites, and Forums)
  - This Files
  - Patience :)
  - Minimum of Hackintosh Knowledge
